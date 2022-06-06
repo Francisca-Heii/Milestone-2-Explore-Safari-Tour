@@ -65,5 +65,27 @@ Visiotors to safaris can explore a variety of wildlife in their natural habitat,
 * As a user I want to see the contact information on places to explore so that I can send an inquiry if I need more specific information or when I have a question.
 * As a user I want to see a map showing restaurants, accommodation and Game reserves found in the Chobe National Park and the Okavango Delta for extra information.
 * As a user I want to see the social links of Botswana safaris so that I can follow them.
+
+#### Site Scope :
+
+*The following must be incorporated:*
+* Easy and intuitive to navigate.
+* Carousel image with text sliders for Chobe National Park and the Okavango Delta.
+* A responsive design that will present information in a logical format on all devices.
+* Apropriate branding and color palette
+* A geolocated map on the home screen showing the Okavango Delta and Chobe National park.
+* A Video on the home page and wildlife displayed via tooltip on hover or mouse pointer in the Okavango Delta and Chobe National Park pages.
+* Banner images on places to explore.
+
+### Structure Plane :
+*The site can be used on Mobile, Tablet or desktop, it was designed on mobile first approch.*
+Each page has the same structure :
+* The logo is on the left and the navigation bar in the center.
+* The main body of the page contains the relevant information.
+* Footer at the bottom of the page containg social media links and copyright text.
+
+
+#### Skeleton Plane: Wireframe mockups
+I started with a **pen and paper to draw my wireframes,** but ultimately were created using **Figma.** Each page of the application was rendered as a wireframe in **diffrent screen sizes** to show how elements per page would react to different viewport sizes. Each element put down on this stage has made it into the **physical development** of the application with slight changes occuring from the original wireframes.
  
 
